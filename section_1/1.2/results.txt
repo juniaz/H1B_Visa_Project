@@ -1,0 +1,18 @@
+Calculate the mean and standard deviation of wages proposed for workers located in New York City and Mountain View. 
+
+The mean proposed annual wage rate in  New York is $89199.8
+The mean proposed annual wage rate in  Mountain View is $104033.8
+The standard deviation of the proposed annual wage rates in  New York is $68983.4
+The standard deviation of the proposed annual wage rates in  Mountain View is $27223.8
+
+Are the average wages in these two locations statistically different? 
+
+The z-statistic for the two populations means is 38.98
+The p-value for the two populations means is 0.0, therefore we reject the null hypothesis
+We can say with 99% confidence that the average proposed wage in Mountain View is higher than that in New York
+
+What factors could explain the results?
+
+Job openings in Mountain View skew more to tech and engineering, which pay higher wages
+The concentration of industries in Mountain View is mostly tech, with many large tech companies (eg. Google) headquartered there, driving up wage rates
+In comparison, New York has a wider range of industries, including public sector, media, design, etc., which is why it shows a higher standard deviation
