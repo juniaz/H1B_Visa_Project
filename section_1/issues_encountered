@@ -1,0 +1,12 @@
+In summarizing the data by employer name, I encountered the following issues:
+
+* Defined job opening location as Work Location, not Employer City
+
+* Defined NYC job opening locations as EITHER Work Location 1 OR Work Location 2
+
+* Data Cleaning: within the Work Location 1 and Work Location 2 columns, there exists several variations of "New York City"
+  Addressed this by filtering data based on whether either columned contained 'NEW YORK' or 'NYC'
+  
+* Employer Names: Based on whether we would want to consider sub-brands as the same parent company or as separate entities,
+  we could create additional groupings to better understand applicant volumes at an aggregated level
+  Example: DELOITTE CONSULTING LLP, DELOITTE & TOUCHE LLP, DELOITTE TAX LLP, etc
