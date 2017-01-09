@@ -1,8 +1,8 @@
 For NYC, what is the relationship between the total number of H-1B visas requested by an employer and the average wages proposed? 
 Visually represent this relationship if appropriate. 
 
-See PNG plots in folder: 
-workers_vs_wage.png = full data plotting total foreign workers requested by employer (ie. sum(TOTAL WORKERS)) vs. average "WAGE RATE FROM" weighted by "TOTAL WORKERS" requested
+See PNG plot in folder: workers_vs_wage.png 
+Full data plotting total foreign workers requested by employer (ie. sum(TOTAL WORKERS)) vs. average "WAGE RATE FROM" weighted by "TOTAL WORKERS" requested
 
 Is the relationship statistically significant? What might explain this relationship?
 
