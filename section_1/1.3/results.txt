@@ -1,0 +1,19 @@
+For NYC, what is the relationship between the total number of H-1B visas requested by an employer and the average wages proposed? 
+Visually represent this relationship if appropriate. 
+
+See PNG plots in folder: 
+workers_vs_wage.png = full data plotting total foreign workers requested by employer (ie. sum(TOTAL WORKERS)) vs. average "WAGE RATE FROM" weighted by "TOTAL WORKERS" requested
+workers_vs_wage.png = removed outliers to visualize the data better
+
+Is the relationship statistically significant? What might explain this relationship?
+
+Pearson's coefficient:
+               total_workers  avg_wage
+total_workers       1.000000 -0.000894
+avg_wage           -0.000894  1.000000
+
+The relationship is not statistically significant. 
+The mode workers requested is 1 and as a result the proposed wage rate would vary widely depending on the type of occupation being filled.
+For the higher number of workers requested, there would also be an unclear relationship as the average wage would depend heavily on the kinds of roles being filled.
+In some cases, it may be a large tech company hiring for many software engineers (resulting in a high avg wage),
+In other cases, it may be an agency/consultancy hiring for more junior-level roles (resulting in lower wages).
