@@ -3,7 +3,6 @@ Visually represent this relationship if appropriate.
 
 See PNG plots in folder: 
 workers_vs_wage.png = full data plotting total foreign workers requested by employer (ie. sum(TOTAL WORKERS)) vs. average "WAGE RATE FROM" weighted by "TOTAL WORKERS" requested
-workers_vs_wage.png = removed outliers to visualize the data better
 
 Is the relationship statistically significant? What might explain this relationship?
 
